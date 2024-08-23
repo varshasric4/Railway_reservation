@@ -1,0 +1,4 @@
+# PROBLEM STATEMENT
+Design and implement a console-based Railway Booking System in C that enables users to 
+manage train bookings effectively. The system should support user authentication, ticket booking,
+cancellation, and provide features for feedback and rating. It should also generate reports on popular routes based on booking data.
